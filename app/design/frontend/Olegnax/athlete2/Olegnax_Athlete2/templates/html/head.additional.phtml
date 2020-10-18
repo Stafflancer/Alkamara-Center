@@ -1,0 +1,14 @@
+<?php
+$_helper = $this->helper(\Olegnax\Athlete2\Helper\CssFiles::class);
+
+if ($this->getConfig('athlete2_design/appearance_general/google_font_enable')) {
+    ?>
+	<link rel="stylesheet preload" as="style" media="all" href="<?= $_helper->getGoogleFontUrl(); ?>"/>
+<?php } ?>
+<?php if (!$this->getConfig('athlete2_design/appearance_custom/inline_css')) { ?>
+	<link rel="stylesheet" media="all" type="text/css" 
+		  href="<?php echo $_helper->getDynamicCss('settings') . ($this->getConfig('athlete2_design/appearance_custom/dynamic_file_arg_enable') ? '?v=' . $this->getConfig('athlete2_design/appearance_custom/dynamic_file_arg').'.0' : '') ?>"/>
+<?php } ?>
+<?php if ($this->getConfig('athlete2_design/appearance_general/fontawesome_enabled')) { ?>
+			<link rel="stylesheet preconnect" href="https://use.fontawesome.com/releases/v5.12.1/css/all.css" integrity="sha384-v8BU367qNbs/aIZIxuivaU55N5GPF89WBerHoGA4QTcbUjYiLQtKdrfXnqAcXyTv" crossorigin="anonymous">
+<?php } ?>

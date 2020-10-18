@@ -1,0 +1,15 @@
+a:4:{s:4:"hash";s:0:"";s:5:"mtime";i:1602761998;s:6:"expire";i:1602848398;s:4:"tags";s:23:"359_BLOCK_HTML,359_MAGE";}
+
+<div id="ox_carousel_764e1" class="block widget ox-carousel owl-carousel ox-nav__simple  ox-dots__a-center ox-dots__p-over ox-dots__s-lines_text ox-dots__overlay ox-progress__p-nav ox-transition__slide ox-slider-height__settings" data-mage-init='{"OXCarousel":{"autoScroll":"10","loop":false,"rewind":true,"lazyLoad":true,"responsive":{"0":{"items":1},"768":{"items":1},"1025":{"items":1},"1160":{"items":1}},"dotsData":true,"dots":true,"nav":true,"progress":true,"autoHeight":false,"autoplayHoverPause":true,"smartSpeed":450}}'>
+					<div class="ox-slide-item -v-center slide-layout-container slide-content-2-col slide25 margins-big align-s-center " style="background-color: rgb(205, 201, 192)" data-dot="<button role='button' class='owl-dot dot'><span class='title'></span><span class='progress'></span></button>" >
+												<img src="/KandC/pub/media/catalog/tmp/category/slide1_7.png" class="ox-carousel__img">
+                						            									<div class="ox-carousel__wrapper container">
+						<div class="ox-carousel__row">
+							<div class="ox-carousel__col">
+								<h2 class="title big" >Catch the Big Deals <br>on Hand Bags</h2><div class="ox-carousel__content"></div><a href="#" class="button ox-slide__button  big-wide" ><span>shop now</span></a>							</div>
+							<div class="ox-carousel__col">
+															</div>
+						</div>
+					</div>
+															</div>
+			<style>#ox_carousel_764e1 .slide25 .subtitle{ color:rgb(255, 255, 255)} #ox_carousel_764e1 .slide25 .title{ color:rgb(255, 255, 255)} #ox_carousel_764e1 .slide25.slide-content-2-col .ox-carousel__col:first-child{max-width:530px;}#ox_carousel_764e1 .slide25 .ox-carousel__inner{ max-width:530px } #ox_carousel_764e1 .slide25 .ox-carousel__content{ color:rgb(255, 255, 255)} #ox_carousel_764e1 .owl-dot.active .progress:before{ animation: 10s linear 0s 1 normal forwards running progress-horizontal } #ox_carousel_764e1:hover .owl-dot.active .progress:before{ animation-play-state: paused; } #ox_carousel_764e1, #ox_carousel_764e1 .ox-slide-item { height:833px}</style></div>
